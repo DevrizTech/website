@@ -1,0 +1,16 @@
+[
+  {
+    "name": "form-success",
+    "path": "/form/success",
+    "component": "C:\\\\Users\\\\prakh\\\\WebstormProjects\\\\devriz-website\\\\pages\\\\form\\\\success.vue",
+    "chunkName": "pages/form/success",
+    "_name": "_35c74682"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\prakh\\\\WebstormProjects\\\\devriz-website\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_000b97d2"
+  }
+]

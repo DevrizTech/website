@@ -1,0 +1,24 @@
+{
+    "menu": [
+      {
+        "title": "Home",
+        "to": "#"
+      },
+      {
+        "title": "About Us",
+        "to": "#about"
+      },
+       {
+        "title": "Why Us?",
+        "to": "#why"
+      },
+      {
+        "title": "Contact Us",
+        "to": "#contact"
+      },
+      {
+        "title": "Tech Stack",
+        "to": "#stack"
+      }
+    ]
+  }

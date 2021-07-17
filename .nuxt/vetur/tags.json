@@ -1,0 +1,44 @@
+{
+  "Contact": {
+    "description": "Auto imported from components/contact.vue"
+  },
+  "Footer": {
+    "description": "Auto imported from components/footer.vue"
+  },
+  "Heading": {
+    "description": "Auto imported from components/heading.vue"
+  },
+  "Landing": {
+    "description": "Auto imported from components/landing.vue"
+  },
+  "Langs": {
+    "description": "Auto imported from components/langs.vue"
+  },
+  "Meet": {
+    "description": "Auto imported from components/meet.vue"
+  },
+  "Navbar": {
+    "description": "Auto imported from components/navbar.vue"
+  },
+  "Overlay": {
+    "description": "Auto imported from components/overlay.vue"
+  },
+  "Products": {
+    "description": "Auto imported from components/products.vue"
+  },
+  "Sidebar": {
+    "description": "Auto imported from components/sidebar.vue"
+  },
+  "Stack": {
+    "description": "Auto imported from components/stack.vue"
+  },
+  "StackCard": {
+    "description": "Auto imported from components/stackCard.vue"
+  },
+  "TechstackCard": {
+    "description": "Auto imported from components/techstackCard.vue"
+  },
+  "WhyUs": {
+    "description": "Auto imported from components/whyUs.vue"
+  }
+}
