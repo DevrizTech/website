@@ -158,7 +158,7 @@
             </p>
             <p class="mt-2">
               This website is open-sourced ❤. Get the code
-              <a href="https://github/DevrizTech/website" class="underline font-bold">here</a>
+              <a href="https://github.com/DevrizTech/website" class="underline font-bold">here</a>
             </p>
           </div>
         </div>
