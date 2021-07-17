@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="lg:max-w-screen-2xl mx-auto">
     <navbar />
     <sidebar/>
     <landing class="mb-32" />

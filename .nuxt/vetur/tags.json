@@ -5,9 +5,6 @@
   "Footer": {
     "description": "Auto imported from components/footer.vue"
   },
-  "Heading": {
-    "description": "Auto imported from components/heading.vue"
-  },
   "Landing": {
     "description": "Auto imported from components/landing.vue"
   },
@@ -28,9 +25,6 @@
   },
   "Sidebar": {
     "description": "Auto imported from components/sidebar.vue"
-  },
-  "Stack": {
-    "description": "Auto imported from components/stack.vue"
   },
   "StackCard": {
     "description": "Auto imported from components/stackCard.vue"
