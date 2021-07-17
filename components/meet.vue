@@ -21,7 +21,7 @@
             </div>
 
             <p class="font-bold text-2xl mt-2 text-gray-700">Prakhar Shukla</p>
-            <p class="text-blue-500 font-bold text-sm mt-1">CEO/CTO</p>
+            <p class="text-blue-500 font-bold text-sm mt-1">CEO | CTO | Founder</p>
             <p class="my-4 md:max-w-sm text-gray-600">
               I work with Kotlin, Java, JS, TS, React, Vue, NodeJS, Golang and
               much more!
