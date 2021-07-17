@@ -4,7 +4,7 @@
       <h1 class="font-sans font-black text-5xl  text-white mt-8">Why Choose us<strong class="text-white">?</strong></h1>
         <p class=" md:max-w-xl my-4 text-gray-300 md:text-xl lg:prose-lg">
        We build apps that are prepossessing, scale-able, secure and fast. At
-      Techriz, we always value <strong class="text-white"> Quality over Quantity.</strong>
+      Devriz, we always value <strong class="text-white"> Quality over Quantity.</strong>
       </p>
     </div>
     <div class="grid grid-cols-1 md:grid-cols-3 gap-x-12 md:mx-0">
