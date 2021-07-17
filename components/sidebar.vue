@@ -37,7 +37,7 @@
       <div class="flex justify-between items-center mb-16">
         <img
           class="w-32 -m-3"
-          src="~/static/images/logo_new_semi_fhd_dark_all_white.svg"
+          src="~/static/images/logo_new_semi_fhd_dark_all_white.png"
           alt=""
         />
 
