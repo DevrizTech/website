@@ -8,7 +8,6 @@ You can directly use them in pages and other components without the need to impo
 
 - `<Contact>` | `<contact>` (components/contact.vue)
 - `<Footer>` | `<footer>` (components/footer.vue)
-- `<Heading>` | `<heading>` (components/heading.vue)
 - `<Landing>` | `<landing>` (components/landing.vue)
 - `<Langs>` | `<langs>` (components/langs.vue)
 - `<Meet>` | `<meet>` (components/meet.vue)
@@ -16,7 +15,6 @@ You can directly use them in pages and other components without the need to impo
 - `<Overlay>` | `<overlay>` (components/overlay.vue)
 - `<Products>` | `<products>` (components/products.vue)
 - `<Sidebar>` | `<sidebar>` (components/sidebar.vue)
-- `<Stack>` | `<stack>` (components/stack.vue)
 - `<StackCard>` | `<stack-card>` (components/stackCard.vue)
 - `<TechstackCard>` | `<techstack-card>` (components/techstackCard.vue)
 - `<WhyUs>` | `<why-us>` (components/whyUs.vue)
