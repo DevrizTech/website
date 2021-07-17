@@ -143,7 +143,7 @@
         >
           <img
             class="mx-auto w-48 lg:w-56 -m-3"
-            src="~/static/images/logo_new_semi_fhd_dark.svg"
+            src="~/static/images/logo_new_semi_fhd_dark.png"
             alt=""
           />
           <div class="text-gray-400 text-xs">

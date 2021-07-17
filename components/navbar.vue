@@ -1,6 +1,6 @@
 <template>
   <div class="h-16 flex justify-between items-center bg-white bg-opacity-60">
-    <img class="p-3 w-36" src="~/static/images/logo_new_semi_fhd.svg" alt="" />
+    <img class="p-3 w-36" src="~/static/images/logo_new_semi_fhd.png" alt="" />
     <div class="px-4 py-6">
       <div class="hidden lg:flex">
         <nav class="font-medium text-sm inline-flex gap-x-5">
